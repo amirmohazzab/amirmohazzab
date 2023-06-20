@@ -16,7 +16,7 @@ Hi there 👋
 
  🤔 ABOUT ME?
 -  Currently, I am working at a car company as a React developer. My tasks are including support and development of the Website in Guarantee department using React and NodeJS. 
--  I have Ph.D. in Mechanical engineering department of the Polytechnic university of Milan, Italy. I speak English and a little bit Italian and German.
+-  I have Ph.D. in Mechanical engineering from Polytechnic university of Milan, Italy. I speak English and a little bit Italian and German.
   
  📫 How to reach me: 
 -  ahm.mohazzab@gmail.com
