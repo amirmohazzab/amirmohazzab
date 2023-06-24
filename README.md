@@ -19,8 +19,7 @@
 -  I have Ph.D. in Mechanical engineering from Polytechnic university of Milan, Italy. I speak English and a little bit Italian and German.
   
 ## 📫 How to reach me: 
--  ahm.mohazzab@gmail.com
--  https://portfolio.ahmohazzab.com
+  ahm.mohazzab@gmail.com
 
 ## ⚡ Fun fact:
 -  Running
