@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-### 🔭 I’m currently working as React developer
+### 🔭 I’m currently working as React Developer
 
 ### 🌱 I’m currently learning about NextJS Framework
 
