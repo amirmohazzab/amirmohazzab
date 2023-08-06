@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-### 🔭 I’m currently working as React / React Native developer
+### 🔭 I’m currently working as React developer
 
 ### 🌱 I’m currently learning about NextJS Framework
 
@@ -9,7 +9,6 @@
 -  `<HTML>` + `{CSS}` + `@LESS` + `$SASS` getting better
 -  `JavaScript` good
 -  `React.js` good
--  `React Native` good
 -  `Typescript` not bad
 -  `Node.js` not bad
 -  `MongoDB` not bad
