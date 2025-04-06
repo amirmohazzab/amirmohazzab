@@ -16,8 +16,8 @@
 -  `Git` not bad
 
 ## 🤔 ABOUT ME?
--  A dedicated React / React Native developer with more two years experience in a car company. Activities are focused on support and development of Website and App using Reactjs, React Native and NodeJS. 
--  Have Ph.D. in Mechanical engineering from Polytechnic university of Milan, Italy. Can speak English and a little bit German.
+-  A dedicated Dotnet / React developer with more three years experience. 
+-  Have Ph.D. in Mechanical engineering from Tehran university. Can speak English and a little bit German.
   
 ## 📫 How to reach me: 
   ahm.mohazzab@gmail.com
