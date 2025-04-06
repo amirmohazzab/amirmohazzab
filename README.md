@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-### 🔭 I’m currently working as React Developer
+### 🔭 
 
-### 🌱 I’m currently learning about NextJS Framework
+### 🌱 I’m currently learning Asp.net Core 
 
 ## 👯 Skills / Languages
 -  `<HTML>` + `{CSS}` + `@LESS` + `$SASS` getting better
