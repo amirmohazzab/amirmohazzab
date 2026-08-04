@@ -3,23 +3,28 @@
 
 ### 🔭 
 
-### 🌱 I’m currently learning Asp.net Core 
+### 🌱 I’m currently learning Asp.net Core and searching for job in Italy
 
-## 👯 Skills / Languages
--  `Asp.net MVC` good
--  `Asp.net API` good
--  `<HTML>` + `{CSS}` + `@LESS` + `$SASS` getting better
--  `JavaScript` good
--  `React.js` good
--  `Typescript` not bad
--  `Node.js` not bad
--  `MongoDB` not bad
--  `SqlServer` not bad
--  `Git` not bad
+## 👯 Recent Skills 
+-  `Asp.net MVC` 
+-  `Asp.net API` 
+-  `<HTML>` + `{CSS}` + `@LESS` + `$SASS` 
+-  `JavaScript` 
+-  `Typescript` 
+-  `Angular` 
+- `SqlServer` 
+- `Git` 
+  
+## Previous Skills:
+-  `React.js` 
+-  `Node.js` 
+-  `MongoDB` 
+
 
 ## 🤔 ABOUT ME?
--  A dedicated Dotnet / React developer three years experience by myself.
--  Have Ph.D. in Mechanical engineering from Tehran university. Can speak English and a little bit German.
+-  I am a self-taught Backend Developer with hands-on experience building ASP.NET MVC and ASP.NET Core Web API e-commerce applications, with a Mechanical Engineering background from Politecnico di Milano.
+- My technical skills include Entity Framework Core, SQL Server, and Angular. I enjoy writing clean, maintainable, and scalable code while continuously improving my skills in modern web development.
+- Available for immediate relocation to Italy.
   
 ## 📫 How to reach me: 
   ahm.mohazzab@gmail.com
