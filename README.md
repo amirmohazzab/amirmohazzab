@@ -8,9 +8,10 @@
 ## 👯 Recent Skills 
 
 ### Backend
--  `Asp.net MVC` 
--  `Asp.net Web API` 
--  `SQLServer`
+- `C#`
+-  `Asp.Net MVC` 
+-  `Asp.Net Web API` 
+-  `SQL Server`
 -  `Entity Framework Core`
 
 ### Architecture, Principles & Design Patterns
@@ -23,6 +24,7 @@
 
 ### Frontend
 - `JavaScript`
+- `jQuery`
 - `Typescript`
 - `Angular`
 - `<HTML>` + `{CSS}` + `@LESS` + `$SASS`
@@ -33,12 +35,13 @@
 -  `Docker`
 
 ## Previous Skills:
--  `React` 
+-  `React`
+-  `React Native`
 -  `Node.js` 
 -  `MongoDB` 
 
 ## 🤔 ABOUT ME?
--  I am a self-taught Backend Developer with hands-on experience building ASP.NET MVC and ASP.NET Core Web API e-commerce applications, with a Mechanical Engineering background from Politecnico di Milano.
+-  I am a self-taught Backend Developer with hands-on experience building ASP.NET MVC and ASP.NET Core Web API e-commerce applications, with a Mechanical Engineering background.
 - My technical skills include Entity Framework Core, SQL Server, and Angular. I enjoy writing clean, maintainable, and scalable code while continuously improving my skills in modern web development.
   
 ## 📫 How to reach me: 
